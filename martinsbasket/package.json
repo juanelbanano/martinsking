@@ -1,0 +1,13 @@
+{
+  "name": "king-basketball-club-martins",
+  "version": "1.0.0",
+  "description": "Sitio web oficial de King Basketball Club Martins - Academia de Baloncesto",
+  "private": true,
+  "scripts": {
+    "start": "npx serve . -p 3000",
+    "dev": "npx serve . -p 3000"
+  },
+  "dependencies": {
+    "serve": "^14.2.6"
+  }
+}
